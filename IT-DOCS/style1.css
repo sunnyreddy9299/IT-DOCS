@@ -1,0 +1,20 @@
+body
+{
+background-color:yellow;
+text-align:center;
+}
+h1{
+	text-align:center;
+	color:green;
+	size:50px;
+}
+h3{
+	text-align:right;
+	color:red;
+	size:25px
+}
+a{
+	text-align:right;
+	color:black;
+	size:25px;
+}
